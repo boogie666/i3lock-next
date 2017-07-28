@@ -59,8 +59,8 @@ $_i3lock_next_helper ${_image} "${_font}"/"${_size}" "${_prompt}"
 i3lock -n -e                    \
     --textcolor=00000000        \
     --linecolor=00000000        \
-    --keyhlcolor=ffffff80       \
-    --separatorcolor=22222260   \
+    --keyhlcolor=5294e280       \
+    --separatorcolor=7c818c60   \
     \
     --insidecolor=0000001c      \
     --insidevercolor=ffffff1c   \
